@@ -1,0 +1,50 @@
+
+.mtl{
+  display: flex;
+
+}
+
+.first{
+  background-color: orange;
+  width: 190px;
+  height: auto;
+  padding: 30px;
+  color: rgb(255, 255, 255) ;
+}
+
+.second{
+  background-color: darkcyan;
+  width: 190px;
+  height: auto;
+  padding: 30px;
+  color: rgb(255, 255, 255) ;
+}
+
+.third{
+  background-color: rgb(40, 84, 75);
+  width: 190px;
+  height: auto;
+  padding: 30px;
+  color: rgb(255, 255, 255) ;
+}
+
+button{
+  color: rgb(255, 255, 255) ;
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: transparent;
+  border-color: white;
+  cursor: pointer;
+}
+
+.first{
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.third{
+  border-bottom-right-radius:5px ;
+  border-top-right-radius: 5px
+}
+
